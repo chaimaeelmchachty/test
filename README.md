@@ -1,2 +1,2 @@
 # test
-test repo for commande 
+test repo for commande repo
